@@ -3,7 +3,7 @@
 This OutSystems Web Application has 9 screens and a WebBlock:
 Screens:
 
--JobPositions
+-JobPositions<br>
 -JobPosition Detail
 -JobDashboard
 -Country
