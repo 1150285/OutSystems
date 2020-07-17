@@ -1,19 +1,19 @@
 # OutSystems
 
-This OutSystems Web Application has 9 screens and a WebBlock:
-Screens:
-
+This OutSystems Web Application has 9 screens and a WebBlock:<br>
+Screens:<br>
+<br>
 -JobPositions<br>
--JobPosition Detail
--JobDashboard
--Country
--Country Detail
--State
--State Detail
--City
--City Detail
+-JobPosition Detail<br>
+-JobDashboard<br>
+-Country<br>
+-Country Detail<br>
+-State<br>
+-State Detail<br>
+-City<br>
+-City Detail<br>
 
-Web Block:
--JobKeyword
-
+Web Block:<br>
+-JobKeyword<br>
+<br>
 This Application use Artifitial Intelligence to Application understands the job opportunities.
